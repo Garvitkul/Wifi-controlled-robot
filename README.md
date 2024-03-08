@@ -1,4 +1,4 @@
-*This is a NodeMCU base IoT project using Adafruit.*
+**This is a NodeMCU based IoT project using Adafruit.**
 
 We have made an account on Adafruit.io cloud and then created two feeds of On/Off and then these feeds sends the On/Off commands to the NodeMCU to turn On/Off the relay connected to the NodeMCU.
 Now we can connect anything to the relay so that whenever we turn On/Off the relay using the cloud, the appliance attached to it, starts or stops. 
